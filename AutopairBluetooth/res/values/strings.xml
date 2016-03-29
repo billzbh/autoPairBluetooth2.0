@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, MainActivity!</string>
+    <string name="app_name">AutopairBluetooth</string>
+	<string name="btn_autopair_label">自动配对蓝牙设备</string>
+	<string name="bluetooth_connect_success">蓝牙已自动配对成功</string>
+</resources>
